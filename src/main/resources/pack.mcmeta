@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "modid": "sward",
+        "name": "the arsenal mod",
+        "version": "${version}"
+        "mcversion": "${mcversion}"
+        "description": "examplemod resources",
+        "pack_format": 9,
+        "forge:resource_pack_format": 8,
+        "forge:data_pack_format": 9
+    }
+}
