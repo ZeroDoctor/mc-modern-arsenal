@@ -1,6 +1,6 @@
 # Modern Arsenal
 
-NOTE: Supporting Minecraft 1.18
+NOTE: Supporting Minecraft 1.18.2
 
 ## Setup Process:
 
