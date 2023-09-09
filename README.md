@@ -1,9 +1,8 @@
 # Modern Arsenal
 
-NOTE: Supporting Minecraft 1.18
+NOTE: Supporting Minecraft 1.18.2
 
 ## Setup Process:
-==============================
 
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
 
@@ -60,6 +59,7 @@ Addtional run commands:
 
 ## Mapping Names:
 =============================
+
 By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
 in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
 license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
@@ -68,6 +68,7 @@ https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
 
 ## Additional Resources: 
 =========================
+
 Community Documentation: http://mcforge.readthedocs.io/en/latest/gettingstarted/  
 LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
 Forge Forum: https://forums.minecraftforge.net/  
